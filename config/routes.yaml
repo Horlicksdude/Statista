@@ -1,0 +1,7 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+#
+app_fizz_buzz:
+        path: /fizz/buzz
+        controller: App\Controller\FizzBuzzController::index
